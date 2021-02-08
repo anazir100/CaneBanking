@@ -6,6 +6,7 @@ Postgres Database,
 React Native,
 Redux,
 TypeScript,
+SonarQube,
 AWS: API Gateway, cloudWatch, DynamoDB, Lambda, RDS.
 # Getting Started
 ## git clone https://github.com/cane-banking/projectTwo.git
